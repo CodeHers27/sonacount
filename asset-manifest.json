@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sonacount/static/css/main.0cf9fd1f.css",
+    "main.js": "/sonacount/static/js/main.016e06e8.js",
+    "index.html": "/sonacount/index.html",
+    "main.0cf9fd1f.css.map": "/sonacount/static/css/main.0cf9fd1f.css.map",
+    "main.016e06e8.js.map": "/sonacount/static/js/main.016e06e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf9fd1f.css",
+    "static/js/main.016e06e8.js"
+  ]
+}
